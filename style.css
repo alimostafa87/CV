@@ -1,0 +1,20 @@
+body{
+    background: #DADDE2;
+  }
+
+  hr{
+    border-style: dotted none none ;
+    background-color: transparent;
+    border-color: #8DA79A;
+    width: 40%;
+    border-width: 5px;
+  }
+
+  h1{
+    color: #CE8871 ;
+  }
+
+  h2{
+    color: #CE8871 ;
+    text-decoration: underline;
+  }
