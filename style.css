@@ -1,3 +1,4 @@
+/* *********************Tag Selectors**************** */
 body{
     background: #DADDE2;
   }
@@ -18,3 +19,11 @@ body{
     color: #CE8871 ;
     text-decoration: underline;
   }
+
+  img{
+    border-radius: 50%;
+  }
+  /* *********************Class Selectors**************** */
+
+  .header2 {color:darkcyan ;}
+  .font-color {color: #2F70AF;}
